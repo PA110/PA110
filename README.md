@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,20,5,30&height=220&section=header&text=Data Insight Leadership&fontSize=80&animation=fadeIn" width="100%" />
 
-# 👋 Hello, I'm Punith
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,20,5,30&height=220&section=header&text=DataInsight_Leadership&fontSize=80&animation=fadeIn" width="100%" />
+
+# 👋 Hello, I'm Punith_A
 ### Data Engineer | Aspiring IT Project Manager | AI Enthusiast
 
 <p align="center">

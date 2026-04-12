@@ -1,6 +1,10 @@
-## Hi there 👋
-
 <div align="center">
+
+<img src="" width="100%" alt="Data Engineering and AI Header" />
+
+# Hi there, I'm PA110 👋
+### Data Engineer | Aspiring IT Project Manager | AI Enthusiast
+</div>
 
 # Hi there, I'm PA110 👋
 ### Data Engineer | Aspiring IT Project Manager | AI Enthusiast

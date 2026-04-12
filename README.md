@@ -1,44 +1,54 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,20,5,30&height=220&section=header&text=Data Insight Leadership&fontSize=80&animation=fadeIn" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3670A0&height=220&section=header&text=Punith_A&fontSize=80&animation=twinkling" width="100%" />
-
-# Hi there, I'm Punith 👋
+# 👋 Hello, I'm Punith
 ### Data Engineer | Aspiring IT Project Manager | AI Enthusiast
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=PA110&label=Profile%20views&color=0e75b6&style=flat" alt="PA110" />
+<img src="https://komarev.com/ghpvc/?username=PA110&label=Profile%20views&color=FF6B6B&style=flat" alt="PA110" />
 </p>
 
-</div>
+---
+
+### 🚀 About Me
+I specialize in building **scalable data infrastructure** and **machine learning workflows**. I am currently leveraging my technical background in Data Engineering to pivot into **HR Coordination and IT Project Management**, focusing on how AI can optimize human capital and team efficiency.
+
+**Current Focus:** Developing `Disease_Prediction-_ML_P1` & Mastering Agile/Scrum.
 
 ---
 
-### 💫 About Me:
-I am a **Data Engineer** passionate about building scalable infrastructure and transitioning into **People-centric Technical Leadership**. Currently focused on bridging the gap between high-level AI projects and efficient Project Management workflows.
+### 🛠️ Technical Toolkit
+*(Powered by the Vibrant Template Palette)*
 
-
-
----
-
-### 🛠 Tech Stack & Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230078d4.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Python](https://img.shields.io/badge/python-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4ECDC4?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scrum](https://img.shields.io/badge/Agile-FFE66D?style=for-the-badge&logo=scrumalliance&logoColor=black)
+![DevOps](https://img.shields.io/badge/DevOps-1A535C?style=for-the-badge&logo=githubactions&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 Dynamic Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PA110&show_icons=true&theme=radical&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PA110&layout=compact&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PA110&show_icons=true&theme=radical&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PA110&layout=compact&theme=radical&hide_border=true&title_color=FF6B6B&text_color=4ECDC4" />
 </p>
 
 ---
 
-### 🤝 Connect with me:
-### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apunith1198@gmail.com)
+### 📂 Featured Project
+**[Disease Prediction - ML P1](https://github.com/PA110/Disease_Prediction-_ML_P1)**
+*A comprehensive Machine Learning project developed on Windows 11 using Python. Demonstrates data engineering pipelines and predictive modeling.*
+
+---
+
+### 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+**Crafted with ❤️ and lots of coffee ☕**
+*Built with the Vibrant Dark Theme architecture*
 
 </div>

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3670A0&height=220&section=header&text=Punith_A&fontSize=80&animation=twinkling" width="100%" />
 
-# Hi there, I'm PA110 👋
+# Hi there, I'm Punith 👋
 ### Data Engineer | Aspiring IT Project Manager | AI Enthusiast
 
 <p align="center">

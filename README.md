@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="" width="100%" alt="Data Engineering and AI Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3670A0&height=220&section=header&text=PA110&fontSize=80&animation=twinkling" width="100%" />
 
 # Hi there, I'm PA110 👋
 ### Data Engineer | Aspiring IT Project Manager | AI Enthusiast
@@ -8,6 +8,8 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=PA110&label=Profile%20views&color=0e75b6&style=flat" alt="PA110" />
 </p>
+
+</div>
 
 ---
 

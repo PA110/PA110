@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpuJmthcz1n/3o7TKSjP8gA9L5YF2M/giphy.gif" width="100%" alt="Data AI Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3670A0&height=220&section=header&text=PA110&fontSize=80&animation=twinkling" width="100%" />
 
 # Hi there, I'm PA110 👋
 ### Data Engineer | Aspiring IT Project Manager | AI Enthusiast

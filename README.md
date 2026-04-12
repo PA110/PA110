@@ -4,10 +4,6 @@
 
 # Hi there, I'm PA110 👋
 ### Data Engineer | Aspiring IT Project Manager | AI Enthusiast
-</div>
-
-# Hi there, I'm PA110 👋
-### Data Engineer | Aspiring IT Project Manager | AI Enthusiast
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=PA110&label=Profile%20views&color=0e75b6&style=flat" alt="PA110" />

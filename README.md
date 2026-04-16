@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=PA110&label=Profile%20views&color=FF6B6B&style=flat" alt="PA110" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punith-anumala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](my_linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PA110-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PA110)
 
 </div>

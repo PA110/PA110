@@ -41,7 +41,7 @@ I've driven significant cost and performance wins including **Snowflake compute 
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
-### 🏦 SMBC — *Data Engineer*
+### 🏦 Eastern Bank — *Data Engineer*
 Enterprise banking data platform work across reporting, analytics, and pipeline engineering.
 
 ### 🛒 The Hanover Insurance — *Data Engineer*
@@ -124,7 +124,7 @@ timeline
 The Hanover Insurance: Retail analytics platform
                      : POS and supply chain pipelines
     section Senior
-        SMBC       : Enterprise banking platform
+        Eastern Bank: Enterprise banking platform
                    : Snowflake optimization · Cloud migration
                    : 2024–Present
 ```

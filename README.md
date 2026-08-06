@@ -39,17 +39,6 @@ I've driven significant cost and performance wins including **Snowflake compute 
 
 ---
 
-## 💼 PROFESSIONAL EXPERIENCE
-
-### 🏦 Eastern Bank — *Data Engineer*
-Enterprise banking data platform work across reporting, analytics, and pipeline engineering.
-
-### 🛒 The Hanover Insurance — *Data Engineer*
-Retail data platform engineering; supply chain and POS analytics pipelines.
-
-### 🤖 Voziq AI — *Data Engineer*
-AI/ML data infrastructure; churn prediction feature pipelines and model data workflows.
-
 ---
 
 ## 🏗️ ARCHITECTURE APPROACH
@@ -110,23 +99,6 @@ graph TB
 </div>
 
 ---
-
-## 📈 CAREER TIMELINE
-
-```mermaid
-timeline
-    section Early Career
-        Foundation : Junior to Mid-level Data Engineering
-                   : ETL · SQL · Warehousing basics
-    section Growth
-        Voziq AI     : Data Engineer
-                     : Feature engineering for churn models
-The Hanover Insurance: Retail analytics platform
-                     : POS and supply chain pipelines
-    section Senior
-        Eastern Bank: Enterprise banking platform
-                   : Snowflake optimization · Cloud migration
-                   : 2024–Present
 ```
 
 ---
